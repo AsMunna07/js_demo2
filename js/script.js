@@ -24,7 +24,7 @@ function bulbOff(){
 }
 //font size
 function fontSize(){
-  document.getElementById('fs').style.color =("red");
+  document.getElementById('fs').style.fontSize =("50px");
 }
 // show/hide
 function textShow(){
